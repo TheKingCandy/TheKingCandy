@@ -47,8 +47,9 @@
 - وبسایت شخصی: [شهر دات نت](https://dncity.ir)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKingCandy&show_icons=true&theme=radical)
+<br clear="both">
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKingCandy&show_icons=true&theme=radical)
 
 ###
 
