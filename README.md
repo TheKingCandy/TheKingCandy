@@ -46,9 +46,9 @@
 - پست الکترونیک: ecma.work@gmail.com
 - وبسایت شخصی: [شهر دات نت](https://dncity.ir)
 
-<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKingCandy&show_icons=true&theme=radical)
-</div>
+
 
 ###
 
