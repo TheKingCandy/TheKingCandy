@@ -36,8 +36,7 @@
 
 
 ## 📫 ارتباط با من
-- ایمیل: ali@example.com
-- لینکدین: [linkedin.com/in/ali](https://linkedin.com/in/ali)
-- وبسایت شخصی: [ali.dev](https://ali.dev)
+- ایمیل: ecma.work@gmail.com
+- وبسایت شخصی: [شهر دات نت](https://dncity.ir)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKingCandy&show_icons=true&theme=radical)
