@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="Dot Net"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="C#"  />
