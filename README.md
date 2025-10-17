@@ -48,7 +48,6 @@
 - پست الکترونیک: ecma.work@gmail.com
 - وبسایت شخصی: [شهر دات نت](https://dncity.ir)
 - یوتیوب: [شهر دات نت](https://www.youtube.com/@DotNetCity)
-- 
 
 
 <br clear="both">
